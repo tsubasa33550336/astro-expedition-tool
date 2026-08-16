@@ -1,0 +1,4 @@
+[
+  { "driver": "部長車(ミニバン)", "capacity": 6, "cargo": 8 },
+  { "driver": "副部長車(セダン)", "capacity": 4, "cargo": 4 }
+]
